@@ -5,6 +5,12 @@
 - ⚡  Hobbies include: Motorbiking - starting Enduro soon! Capoeira, Swimming, Hiking, Yoga
 - 🌎 Languages: Portuguese (Brazilian), English, Spanish --- Learning: Italian, German
 
+### Connect with me:
+<img align="left" alt="https://medium.com/@christelle.marie" width="24px" src="https://entrepreneurship.ieee.org/wp-content/uploads/2020/06/Medium-Logo.png" />
+<img align="left" alt="https://www.linkedin.com/in/christellevs/" width="22px" src="https://www.pngkit.com/png/full/5-59543_snapchat-logo-furthermore-facebook-logo-silver-likewise-linkedin.png" />
+<img align="left" alt="https://open.spotify.com/user/sebroeck" width="22px" src="https://www.freepnglogos.com/uploads/spotify-logo-png/file-spotify-logo-png-4.png" />
+<br/>
+
 ### Languages and Tools:
 #### Languages
 <img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
