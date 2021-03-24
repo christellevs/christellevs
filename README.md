@@ -1,17 +1,9 @@
-### Hi there, I'm Konstantinos - aka [KonScanner][website] 👋
+### Hi there, I'm Christelle 👋
 
-## I'm a musical, physicist/data scientist!
-## My background is in Data Science, Physics and Music
-
-- 🔭 Currently working in insurance as a data scientist!
 - 🌱 Currently learning everything I can get my hands on!!!
 - ⚒ Looking to collaborate with others for ML based projects!
-- ⚡ Hobbies include, playing guitar / bass and basketball.
+- ⚡ Hobbies include: Motorbiking - starting Enduro soon! Capoeira, Swimming, Hiking, Yoga
 ### Connect with me:
-[<img align="left" alt="medium.com/@KonScanner" width="24px" src="https://entrepreneurship.ieee.org/wp-content/uploads/2020/06/Medium-Logo.png" />][medium]
-[<img align="left" alt="https://konscanner.github.io/CV/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="kostas-komp | LinkedIn" width="22px" src="https://www.pngkit.com/png/full/5-59543_snapchat-logo-furthermore-facebook-logo-silver-likewise-linkedin.png" />][linkedin]
-[<img align="left" alt="kkomp | Spotify" width="22px" src="https://www.freepnglogos.com/uploads/spotify-logo-png/file-spotify-logo-png-4.png" />][spotify]
 <br/>
 ### Languages and Tools:
 #### Languages
