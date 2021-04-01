@@ -3,7 +3,7 @@
 - 🌱 Currently learning everything I can!
 - ⚒  Looking to collaborate with others for ML based projects!
 - ⚡  Hobbies include: Motorbiking - starting Enduro soon! Capoeira, Swimming, Hiking, Yoga
-- 🌎 Languages: English, Portuguese (Brazilian), Spanish --- Learning: Italian, German
+- 🌎 Parlami in Italiano (sto cercando di imparare): Otherwise fluent in: English, Portuguese (Brazilian) and Spanish.
 
 #### Languages
 <img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
