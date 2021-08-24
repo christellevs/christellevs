@@ -2,7 +2,7 @@
 
 - 🌱 Currently learning everything I can!
 - ⚒  Looking to collaborate with others for ML based projects!
-- ⚡  Hobbies include: Motorbiking - starting Enduro soon! Capoeira, Swimming, Hiking, Yoga
+- ⚡  Hobbies include: Motorbiking, Capoeira, Swimming, Hiking, Yoga
 - 🌎 Parlami in Italiano (sto cercando di imparare): Otherwise fluent in: English, Portuguese and Spanish.
 
 #### Languages
