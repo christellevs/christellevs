@@ -5,7 +5,7 @@
 - ⚡  Hobbies include: Motorbiking, Capoeira, Swimming, Hiking, Yoga
 - 🌎 Parlami in Italiano (sto cercando di imparare): Otherwise fluent in: English, Portuguese and Spanish.
 
-#### Languages
+#### Stack
 <img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="ReactJS" width="36x" src="https://raw.githubusercontent.com/jalbertsr/logo-badge-images/master/img/react_logo.png" />
 <img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
