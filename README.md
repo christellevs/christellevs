@@ -7,7 +7,7 @@
 
 ## Certificates:
 
-Udacity React Nanodegree: https://confirm.udacity.com/W5DZGGYJ
+(Udacity React Nanodegree)[https://confirm.udacity.com/W5DZGGYJ]
 
 #### Stack
 <img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
