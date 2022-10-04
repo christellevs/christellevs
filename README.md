@@ -2,7 +2,7 @@
 
 - 🌱 Currently focusing on ReactJS!
 - ⚒  Looking to collaborate with others for science based projects!
-- ⚡  Hobbies include: Motorbiking, Capoeira, Swimming, Hiking, Yoga
+- ⚡  Hobbies include: Capoeira, Running, Swimming, Hiking, Krav Maga, Motorbiking
 - 🌎 Parlami in Italiano (sto cercando di imparare): Otherwise fluent in: English, Portuguese and Spanish.
 
 #### Certificates:
