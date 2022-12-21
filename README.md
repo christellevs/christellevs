@@ -1,8 +1,7 @@
 ## Hi there, I'm Christelle 👋
 
-- 🌱 Currently focusing on ReactJS!
-- ⚒  Looking to collaborate with others for science based projects!
-- ⚡  Hobbies include: Capoeira, Running, Swimming, Hiking, Krav Maga, Motorbiking
+- 🌱 Currently focusing on full stack apps!
+- ⚡  Hobbies include: Capoeira, Running, Swimming, Hiking, Motorbiking
 - 🌎 Parlami in Italiano (sto cercando di imparare): Otherwise fluent in: English, Portuguese and Spanish.
 
 ### Certificates:
